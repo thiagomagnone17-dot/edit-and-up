@@ -1,0 +1,2 @@
+-- The database schema was already installed in Supabase in V1.
+-- Do not run this file again unless the tables are missing.
